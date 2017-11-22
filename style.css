@@ -1,0 +1,52 @@
+
+
+
+
+.bodyfull{
+    font-weight: 200;
+    color: black;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 80px; 
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  margin-top: 100px;
+}
+body
+{
+    background-image: url(tree.jpg);
+   
+}
+.sitelist{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 80px;
+    background: transparent;
+    margin-left:200px;
+    padding-left: 1%;
+    padding-right: 1%;
+    align-content: center;
+    
+}
+ul li{
+ display: inline-block;  
+ 
+}
+.linkcolor {
+    color: black;
+    
+}
+#reddit{
+    
+}
+#faceb{
+    
+}
+#ytb{
+    
+}
+#msbb{
+    
+}
+#mymsoe{
+    
+}
